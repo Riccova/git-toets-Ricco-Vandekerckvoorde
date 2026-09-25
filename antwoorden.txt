@@ -11,6 +11,6 @@ antwoord:bbd164a0
 4.commando:git show 5f681e6
 
 OPDRACHT 7
-a.
-b.
-c.
+a. Er stond op github al een aanpassing van index.html op dezelfde lijn dus kan je die niet pushen
+b. Git commit slaat wijzigingen lokaal op terwijl git push die naar github stuurt.
+c. Het voorkomt dat onvolledige of foutieve wijzigingen direct op main terechtkomen.
