@@ -1,0 +1,16 @@
+ANTWOORDEN TOETS GIT & GITHUB
+Naam: Ricco Vandekerckvoorde
+
+OPDRACHT 3
+1.commando:git log --oneline
+antwoord: 5f681e6
+2.commando:git log --oneline -- index.html
+antwoord: bbd164a,  Homepage naar versie 2
+3.commando:git blame index.html
+antwoord:bbd164a0
+4.commando:git show 5f681e6
+
+OPDRACHT 7
+a.
+b.
+c.
